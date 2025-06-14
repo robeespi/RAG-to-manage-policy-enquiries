@@ -1,5 +1,5 @@
 # RAG-to-manage-policy-enquiries
-A technology firm, intends to develop an internal assistant designed to manage complex inquiries pertaining to their various policy documents. These documents may include tables, graphs, and images. The assistant is expected to operate in a manner akin to systems that parse and respond based on specific policy documents. The task involves creating a Retrieval-Augmented Generation (RAG) model. 
+A technology firm intended to develop an internal assistant designed to manage complex inquiries pertaining to their various policy documents. These documents may include tables, graphs, and images. The assistant is expected to operate in a manner akin to systems that parse and respond based on specific policy documents. The task involves creating a Retrieval-Augmented Generation (RAG) model. 
 
 This model must efficiently retrieve and apply relevant policy data to deliver accurate and contextually appropriate responses. A critical performance metric for the system is its reliability; providing no response is more acceptable than offering an incorrect one, as the latter could mislead the user regarding their query.
 
